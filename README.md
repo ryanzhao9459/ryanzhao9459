@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanzhao9459
-- 👀 I’m interested in CV and SLAM
+- 👀 I’m interested in LiDAR Place Recognition and SLAM
 - 📫 How to reach me: s2zhao@ucsd.edu
 
 <!---
