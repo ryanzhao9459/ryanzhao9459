@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ryanzhao9459
+- 👋 Hi, I’m Shiqi Zhao, an incoming PhD student of City Unversity of Hong Kong.
 - 👀 I’m interested in LiDAR Place Recognition and SLAM
-- 📫 How to reach me: s2zhao@ucsd.edu
+- 📫 How to reach me: ryanzhao9459@gmail.com
 
 <!---
 ryanzhao9459/ryanzhao9459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
