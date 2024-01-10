@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shiqi Zhao, an incoming PhD student of City University of Hong Kong.
-- 👀 I’m interested in LiDAR Place Recognition and SLAM
+- 👋 Hi, I’m Shiqi Zhao, a PhD student of City University of Hong Kong.
+- 👀 I’m interested in LiDAR Place Recognition, Visual Navigation and Lidar Map Merging System.
 - 📫 How to reach me: ryanzhao9459@gmail.com
 
 <!---
